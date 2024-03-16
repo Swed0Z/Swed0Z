@@ -1,15 +1,16 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Felipe;I'm+24+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <p align="center">Hello everyone, I'm Felipe, a software engineering student with a background in computer technology. My journey started as a computer technician, igniting a passion for software engineering. Constantly seeking growth, I aim to explore new technologies, contribute to innovative projects, and eventually lead teams to create impactful solutions. Excited to collaborate and learn within this inspiring tech community.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Swed0Z&theme=radical&mode=weekly" />
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swed0Z&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
- </div>
+</div>
  
  &nbsp;
  &nbsp;
