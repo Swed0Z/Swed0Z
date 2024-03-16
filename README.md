@@ -5,8 +5,8 @@
 <p align="center">Hello everyone, I'm Felipe, a software engineering student with a background in computer technology. My journey started as a computer technician, igniting a passion for software engineering. Constantly seeking growth, I aim to explore new technologies, contribute to innovative projects, and eventually lead teams to create impactful solutions. Excited to collaborate and learn within this inspiring tech community.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Swed0Z.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Swed0Z&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Swed0Z.vercel.app/api/top-langs/?username=Swed0Z&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
