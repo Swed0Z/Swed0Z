@@ -1,12 +1,14 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Swed0Z/Swed0Z/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 &nbsp;&nbsp;&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Felipe;I'm+24+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <p align="center">Hello everyone, I'm Felipe, a software engineering student with a background in computer technology. My journey started as a computer technician, igniting a passion for software engineering. Constantly seeking growth, I aim to explore new technologies, contribute to innovative projects, and eventually lead teams to create impactful solutions. Excited to collaborate and learn within this inspiring tech community.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Swed0Z&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Swed0Z.vercel.app/api/top-langs/?username=Swed0Z&show_icons=true&theme=radical&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Swed0Z&theme=radical&mode=weekly" />
+
  </div>
  
  &nbsp;
@@ -52,7 +54,6 @@
 <div> 
 <a href="https://www.instagram.com/swed_oz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "felipelopesaguiar2077@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-lopes-93b70a2a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
